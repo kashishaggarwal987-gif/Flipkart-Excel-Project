@@ -96,26 +96,6 @@ The dataset includes:
 - Data Visualization
 - KPI Design
 
----
-
-## 📷 Dashboard Preview
-
-Add a screenshot of your Excel dashboard here.
-
-Example:
-
-![Dashboard](Dashboard.png)
-
----
-
-## 📂 Project Files
-
-- 📊 Flipkart Sales Dashboard.xlsx
-- 📁 Flipkart Sales Dataset.xlsx
-- 🖼️ Dashboard.png
-- 📄 README.md
-
----
 
 ## Author
 **Kanishka Agarwal**
